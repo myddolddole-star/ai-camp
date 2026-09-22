@@ -1,0 +1,6 @@
+{
+  "name": "Neon Qix Land Claim",
+  "description": "90년대 고전 네온 아케이드 땅따먹기(Qix / Volfied) 웹 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
